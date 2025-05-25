@@ -1,3 +1,4 @@
+![Coffee Analysis](https://github.com/BANDENAGASANDEEP/Coffee-Analysis/blob/main/RESULTS%20FOR%20QUESTION/coffee%20analysis%20image.jpg?raw=true)
 
 ## 📊 Coffee Sales Expansion Analysis
 
